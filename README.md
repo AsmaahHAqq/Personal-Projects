@@ -1,2 +1,2 @@
-# Personal-Projects
-Personal projects for my resume
+# personal website
+personal website with resume and projects/portfolio
